@@ -37,6 +37,8 @@ namespace CPSTest
         double _wynik;
         double _cps;
         string _last;
+        int __teeeest;
+
 
 
 
