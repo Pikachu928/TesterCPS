@@ -1,5 +1,5 @@
-[![Download](https://img.shields.io/github/v/release/rcmaehl/WhyNotWin11)](https://github.com/Pikachu928/TesterCPS/releases/latest/)
-[![Download count)](https://img.shields.io/github/downloads/rcmaehl/whynotwin11/total?label=Downloads)](https://github.com/Pikachu928/TesterCPS/releases/latest/)
+[![Download](https://img.shields.io/github/v/release/Pikachu928/TesterCPS)](https://github.com/Pikachu928/TesterCPS/releases/latest/)
+[![Download count)](https://img.shields.io/github/downloads/Pikachu928/TesterCPS/total?label=Downloads)](https://github.com/Pikachu928/TesterCPS/releases/latest/)
 
 # TesterCPS
 TesterCPS is a program for counting clicks over time.
